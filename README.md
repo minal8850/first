@@ -1,4 +1,4 @@
 # first
 this is my first git repository
 <br>
-Author - Minal Prindawankar
+Author - Minal (TY)
